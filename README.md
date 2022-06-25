@@ -1,2 +1,5 @@
-# Fullstack-TQI---Desafio-1-Reposit-rio-
-Desafio de Projeto sobre Git/GitHub - DIO
+# Desafio de Projeto sobre GIt/GitHub da DIO
+Repositório criado para o Desafio de Projeto.
+
+## Links úteis
+[Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
